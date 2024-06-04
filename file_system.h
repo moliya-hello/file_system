@@ -28,7 +28,7 @@
 #define FILE_DEF_PERMISSION 0664            //文件默认权限
 #define DIR_DEF_PERMISSION    0755            //目录默认权限
 
-#define File_System_Name "MingOS.sys"            //虚拟磁盘文件名
+#define File_System_Name "NEU.sys"            //虚拟磁盘文件名
 
 
 //结构体声明

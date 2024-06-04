@@ -144,7 +144,7 @@ int main() {
             gets(str);
             cmd(str);
         } else {
-            printf("欢迎来到MingOS，请先登录\n");
+            printf("欢迎来到NEU_OS，请先登录\n");
             while (!login());    //登陆
             printf("登陆成功！\n");
             //system("pause");

@@ -111,7 +111,7 @@ bool Format()    //格式化一个虚拟磁盘文件
     fflush(fr);
 
     //创建根目录 "/"
-    Inode cur;
+    Inode cur{};
 
     //申请inode
     int inoAddr = ialloc();
