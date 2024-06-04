@@ -1,0 +1,4 @@
+# ninja log v5
+1	1730	7392034063354675	CMakeFiles/file_system.dir/main.cpp.obj	de26db040a49e4dc
+18	1878	7392034064824686	CMakeFiles/file_system.dir/func.cpp.obj	5151fb1c4182ee99
+1884	2042	7392034066430296	file_system.exe	4315c17e56229b12
