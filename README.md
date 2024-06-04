@@ -17,8 +17,7 @@ file_system - 一个虚拟文件系统（C++）
 step 1：下载项目
 [git clone https://github.com/windcode/os_filesystem.git](https://github.com/moliya-hello/file_system.git)
 
-step 2：用VC++6.0打开项目
-双击目录中的 MingOS.dsw 文件，或者将该文件拖到VC++6.0界面中。
+step 2：用CLion打开项目
 
 step 3：编译，链接，运行
 
